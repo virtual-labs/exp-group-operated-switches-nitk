@@ -32,7 +32,6 @@ The apparatus used for switching, controlling and protecting the electrical circ
 
 "switchgear" in general consists of:
 
-<ul>
 <li>switches</li>
 <li>fuses</li>
 <li>circuit breakers</li>
@@ -43,38 +42,30 @@ The apparatus used for switching, controlling and protecting the electrical circ
 <li>lighting arrestors</li>
 <li>current transformers</li>
 <li>potential transformers etc</li>
-</ul>
 
 </div>
 
 <u>**Functions of switchgear**</u>
 
-<ul>
 <li>To localise the effects of faults by operation of protective equipment and so automatically disconnect faulty point from the system.</li>
 <li>To break efficiently the short circuits without giving rise to dangerous conditions.</li>
 <li>To facilitate the redistribution of loads, inspection and maintainance on the system.</li>
-</ul>
 
 <u>**Essential features of switchgear**</u>
 
-<ul>
 <li>Complete reliability</li>
 <li>The switchgear must be able to discriminate between faulty and healthy sections.</li>
 <li>Quick operation</li>
 <li>Provision for manual control.</li>
 <li>Provision for instruments.</li>
-</ul>
 
 <u>**Principles of layout of switchgear**</u>
-
-<ul>
 
 <li>The layout should be such that any section may be isolated without immoderately affecting the service.</li>
 <li>There should be an easy and safe access for general routine inspection and for maintainance.</li>
 <li>The individual units should be so designed that the risks of failure are reduced to minimum.</li>
 <li>Fire protection arrangement must be made adequately.</li>
 <li>To keep the breaking duty within the capacity of the circuit breakers, reactors should be used wherever necessary.</li>  
-</ul>
   
   <div style="text-align: center">
 
@@ -114,8 +105,6 @@ As all live parts are metal enclosed and hermetically sealed, the SF6 GIS is com
 
 <u>**Main features:**</u>
 
-<ul>
-
 <li><u>High reliability</u>: The live parts are sealed in metal enclosures filled with pure SF6 gas. Thus,the switch gear is protected from contamination by smoke, chemical fumes, dust or salt-laden spray or by the ingress of small animals.This protection prevents the inside components from oxidation and rust caused by oxygen and moisture.</li>
 
 <li><u>Space reduction</u>: A medium-voltage GIS can be installed into a space about half that required for conventional air-insulated metal-clad switchgear.</li>
@@ -123,7 +112,5 @@ As all live parts are metal enclosed and hermetically sealed, the SF6 GIS is com
 <li><u>High safety</u>: All the live parts are fully enclosed in grounded metal enclosures. Thus, there is no danger of an electrical shock.SF6 is an inert, non-flammable, nontoxic, and odourless gas used as an insulation and arc-extinguishing medium. Therefore, it is safe for personnel and there is no fire hazard.</li>
 
 <li><u>Short installation time</u>: A GIS of about four panels can be transported fully constructed.The GIS can be energized by connecting external power cables to the prefabricated plug-in type terminals, thus shortening installation time.</li>
-
-</ul>
 
 </div>
