@@ -1,0 +1,124 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": " _______is used to make sure that an electrical circuit can be completely de-energized for service or maintenance",
+      "answers": {
+        "a": "Circuit Breaker",
+        "b": "Isolator",
+        "c": "Fuse",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The major difference between an isolator and a circuit breaker is that",
+      "answers": {
+        "a": "A CB is an off load device insulated to be opened only after current has been interrupted by some other after control device",
+        "b": "An isolator is an off load device intended to be opened only after current has been interrupted by some other control device",
+        "c": "Both A CB is an off load device insulated to be opened only after current has been interrupted by some other after control device and An isolator is an off load device intended to be opened only after current has been interrupted by some other control device",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "<img src=\"./images/q2.gif\"height=200 width=200/><br/>Consider the above diagram, GOS1, GOS2 represents isolators and CB1, CB2 represents circuit breakers. So when the transformer is required to take out for maintenance, what is the procedure: -",
+      "answers": {
+        "a": "Circuit breaker is taken out first and isolators are taken out second",
+        "b": "Isolators are taken out first and circuit breaker is taken out second",
+        "c": "Both Circuit breaker is taken out first and isolators are taken out second and Isolators are taken out first and circuit breaker is taken out second are true",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Statement 1: In GIS, All the live parts are fully enclosed in grounded metal enclosures. Thus, there is no danger of an electrical shock.<br>Statement 2: In SF6-GIS, SF6 is an inert, non-flammable, non-toxic and odourless gas used as an insulation and arc-extinguishing medium. Therefore, it is safe for personal and therefore is no fire hazard.",
+      "answers": {
+        "a": "Statement1 is true and statement2 is false",
+        "b": "Statement1 is false and statement2 is true",
+        "c": "Statement1 and statement2 both are true",
+        "d": "Statement1 and statement2 both are false"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The apparatus used for switching, controlling and protecting the electrical circuit and equipment is known as",
+      "answers": {
+        "a": "Control panels",
+        "b": "Metering panels",
+        "c": "Circuit breakers",
+        "d": "Switchgear"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Switchgear consist of:",
+      "answers": {
+        "a": "Switched, Fuses, CB, isolators",
+        "b": "Relay, control panels, metering panels",
+        "c": "Lightning arrestors, current transformers potential transformer etc",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Essential features of switchgear are",
+      "answers": {
+        "a": "The switchgear must be able to discriminate between faulty and healthy section",
+        "b": "The switchgear must be able to discriminate between faulty and healthy section",
+        "c": "Provision for manual control and instruments",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    }
+  ]
+}

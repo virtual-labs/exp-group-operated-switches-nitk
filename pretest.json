@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Isolators are",
+      "answers": {
+        "a": "Manually operated",
+        "b": "Motorized",
+        "c": "Both Manually operated and Motorized",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Gas Insulated Switchgear (GIS) offers",
+      "answers": {
+        "a": "High reliability, lower stability and maintenance free feature in much larger space compared with conventional switchgear",
+        "b": "High reliability, higher safety and maintenance free feature in much larger space compared with conventional switchgear",
+        "c": "High reliability, lower safety and maintenance free feature in much smaller space compared with conventional switchgear",
+        "d": "High reliability, higher safety and maintenance free feature in much smaller space compared with conventional switchgear"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "The space requirement of GIS can be less than ______ of the space taken up by an equivalent conventional installation.",
+      "answers": {
+        "a": "5%",
+        "b": "10%",
+        "c": "25%",
+        "d": "15%"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Functions of switchgear are",
+      "answers": {
+        "a": "To localize the effects of faults by operation of protective equipment and so automatically disconnect faulty point from the system",
+        "b": "To break efficiently the short circuits without giving rise to dangerous conditions",
+        "c": "To facilitate the redistribution of local, inspection and maintenance on the system",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    }
+  ]
+}
