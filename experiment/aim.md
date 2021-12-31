@@ -1,1 +1,1 @@
-### Aim of the experiment
+Control of GOS from workstation using Status table.
