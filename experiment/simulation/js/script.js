@@ -6,8 +6,14 @@ const controlsStatusButtons = document.querySelectorAll(".controls-status");
 controlsOperationButtons.forEach((button, index) => {
   button.addEventListener("click", () => {
     const switchh = document.querySelector(`.gos${index + 1}`);
+    console.log(switchh.src);
     const src = switchh.src.split("images/")[1].split(".")[0];
-    switchh.src = src === "OFF" ? "./images/ON.png" : "./images/OFF.png";
+    if (src == "off") {
+      switchh.setAttribute("src", "./images/on.png");
+    } else if (src == "on") {
+      switchh.setAttribute("src", "./images/off.png");
+    }
+    // switchh.src = src === "OFF" ? "../images/ON.png" : ".//images/OFF.png";
     if (src === "OFF") {
       if (
         switchh.classList.contains("gos1") ||
