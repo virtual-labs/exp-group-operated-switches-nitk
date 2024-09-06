@@ -10,9 +10,9 @@ controlsOperationButtons.forEach((button, index) => {
     const src = switchh.src.split("images/")[1].split(".")[0];
     console.log(src);
     if (src == "OFF") {
-      switchh.setAttribute("src", "../images/ON.png");
+      switchh.setAttribute("src", "./images/on.png");
     } else {
-      switchh.setAttribute("src", "../images/OFF.png");
+      switchh.setAttribute("src", "./images/off.png");
     }
     // switchh.src = src === "OFF" ? "../images/ON.png" : ".//images/OFF.png";
     if (src === "OFF") {
